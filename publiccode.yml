@@ -4,7 +4,7 @@
 
 publiccodeYmlVersion: '0.2'
 name: DocWay - FCA
-url: 'https://github.com'
+url: 'https://github.com/agenziaentrateriscossione/docway-fca'
 releaseDate: '2019-02-25'
 developmentStatus: stable
 softwareVersion: 1.0.3
@@ -24,7 +24,7 @@ maintenance:
   type: contract
   contractors:
     - name: 3D Informatica srl
-      website: 'https://www.3di.it'
+      website: 'http://www.3di.it'
       until: '2021-01-01'
 legal:
   license: AGPL-3.0-or-later
@@ -36,6 +36,9 @@ localisation:
   availableLanguages:
     - it
 it:
+  countryExtensionVersion: '0.2'
+  riuso:
+    codiceIPA: esrsris
   conforme:
     misureMinimeSicurezza: true
     gdpr: true
@@ -44,7 +47,7 @@ it:
 description:
   it:
     genericName: Modulo FCA
-    documentation: 'https://github.com'
+    documentation: 'https://github.com/agenziaentrateriscossione/docway-fca'
     shortDescription: Servizio di estrazione testo e conversione di files per applicativo DocWay
     longDescription: >
       I due moduli FCA (File Conversion Agent) e FCS (File Conversion Service) 
