@@ -47,7 +47,7 @@ it:
 description:
   it:
     genericName: Modulo FCA
-    documentation: 'https://github.com/agenziaentrateriscossione/docway-fca'
+    documentation: 'https://github.com/agenziaentrateriscossione/riuso'
     shortDescription: Servizio di estrazione testo e conversione di files per applicativo DocWay
     longDescription: >
       I due moduli FCA (File Conversion Agent) e FCS (File Conversion Service) 
