@@ -37,6 +37,8 @@ localisation:
     - it
 it:
   countryExtensionVersion: '0.2'
+  riuso:
+    codiceIPA: esrsris
   conforme:
     misureMinimeSicurezza: true
     gdpr: true
