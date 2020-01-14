@@ -3,7 +3,7 @@
 # More info at https://github.com/italia/publiccode.yml
 
 publiccodeYmlVersion: '0.2'
-name: DocWay - FCA
+name: Gestione documentale DocWay - FCA
 url: 'https://github.com'
 releaseDate: '2019-02-25'
 developmentStatus: stable
