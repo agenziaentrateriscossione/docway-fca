@@ -1,4 +1,7 @@
 # Sistema di Gestione documentale DocWay comprensivo del Modulo FCA
+___
+> #### Per l'installazione di DocWay ed eXtraWay si rimanda alla pagina [riuso](https://github.com/agenziaentrateriscossione/riuso)
+___
 
 ## Modulo per la conversione degli allegati
 
@@ -30,9 +33,6 @@ In base alla struttura appena descritta, è quindi possibile utilizzare le libre
 [**it.tredi.abstract-fca**](https://github.com/agenziaentrateriscossione/abstract-fca): Configurazione del POOL di FCS con gestione del recupero e assegnazione dei lavori ai differenti processi di FCS (su server distinti).
 
 **it.tredi.docway-fca**: Implementazione per DocWay di FCA, ovvero recupero dei documenti di DocWay da processare (documenti contenenti allegati per i quali è richiesta la conversione e/o estrazione del testo).
-___
-
-> #### Per una visione complessiva del modulo e delle sue dipendenze si rimanda alla pagina [riuso](https://github.com/agenziaentrateriscossione/riuso)
 ___
 ### Prerequisiti:
 1. _Java8_
