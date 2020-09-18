@@ -5,7 +5,6 @@
 publiccodeYmlVersion: '0.2'
 name: DocWay - FCA
 url: 'https://github.com/agenziaentrateriscossione/docway-fca'
-logo: logo.png
 releaseDate: '2019-02-25'
 developmentStatus: stable
 softwareVersion: 1.0.3
